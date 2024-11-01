@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-09 10:32+0100\n"
+"PO-Revision-Date: 2013-07-09 10:34+0100\n"
+"Last-Translator: eggemplo <eggemplo@gmail.com>\n"
+"Language-Team: eggemplo <info@eggemplo.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../users2mailchimp.php:92
+#: ../users2mailchimp.php:93
+msgid "Users2MailChimp"
+msgstr "Users2MailChimp"
+
+#: ../users2mailchimp.php:107
+msgid "Users 2 MailChimp"
+msgstr "Users 2 MailChimp"
+
+#: ../users2mailchimp.php:142
+msgid "API Key:"
+msgstr "API Key:"
+
+#: ../users2mailchimp.php:145
+msgid "MailChimp API KEY. You can get it in MailChimp: Account -> API Keys & Authorized Apps "
+msgstr "API KEY de Mailchimp. Puede conseguirla dentro de tu cuenta de Mailchimp: Mi cuenta -> API Keys"
+
+#: ../users2mailchimp.php:150
+msgid "List name:"
+msgstr "Nombre de la lista:"
+
+#: ../users2mailchimp.php:155
+msgid "Group name:"
+msgstr "Nombre del grupo:"
+
+#: ../users2mailchimp.php:160
+msgid "Subgroup name:"
+msgstr "Nombre del subgrupo:"
+
+#: ../users2mailchimp.php:165
+msgid "Use roles as subgroups:"
+msgstr "Usar roles como subgrupos:"
+
+#: ../users2mailchimp.php:173
+msgid "Creates as many subgroups as there are roles (if checked, \"Subgroup name\" is ignored)."
+msgstr "Crea tantos subgrupos como roles tienen los usuarios (la opción de \"Nombre del subgrupo\" será ignorada)."
+
+#: ../users2mailchimp.php:178
+msgid "Need confirm:"
+msgstr "Necesita confirmación:"
+
+#: ../users2mailchimp.php:184
+#: ../users2mailchimp.php:188
+msgid "YES"
+msgstr "SI"
+
+#: ../users2mailchimp.php:193
+#: ../users2mailchimp.php:197
+msgid "NO"
+msgstr "NO"
+
+#: ../users2mailchimp.php:203
+msgid "Control whether a double opt-in confirmation message is sent. Abusing this may cause your mailchimp account to be suspended."
+msgstr "Un mensaje de confirmación será enviado a los usuarios. Si abusa de no usar confirmaciones, su cuenta de mailchimp puede ser suspendida por considerarle spam."
+
+#: ../users2mailchimp.php:217
+#: ../users2mailchimp.php:223
+msgid "Synchronize"
+msgstr "Sincronizar"
+
+#: ../users2mailchimp.php:226
+msgid "Use this for synchronize existing users in website with mailchimp. In this case, Need Confirm is always YES."
+msgstr "Úsalo para sincronizar los usuarios ya existentes con Mailchimp."
+
+#: ../extensions/wordpress-users2mailchimp.php:16
+msgid "Subscribe me to newsletter."
+msgstr "Suscribirme al boletín de noticias."
+
